@@ -1,0 +1,5 @@
+﻿  terminal.c
+C:\Users\omar\source\repos\001_first_project\001_first_project\terminal.c(15,21): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\omar\source\repos\001_first_project\001_first_project\terminal.c(43,19): warning C4013: 'atoi' undefined; assuming extern returning int
+C:\Users\omar\source\repos\001_first_project\001_first_project\terminal.c(61): warning C4716: 'isValidCardPAN': must return a value
+LINK : fatal error LNK1104: cannot open file 'C:\Users\omar\source\repos\001_first_project\x64\Debug\001_first_project.exe'
